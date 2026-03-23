@@ -65,6 +65,17 @@ Effective diffusion coefficient measurements with replicate data across treatmen
 - Residual carbon stabilised at approximately **63%**
 
 ---
+### SEM
+- `Fig2_SEM_microstructure.png`  
+
+Composite SEM micrograph showing microstructural evolution of biochar-derived carbon before and after rapid thermal engineering:
+
+(a) untreated sample  
+(b) treated sample (RTE)  
+(c) untreated close-up  
+(d) treated close-up  
+
+Scale bars: 2 µm
 
 ## Data Format
 
