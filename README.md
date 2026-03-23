@@ -88,7 +88,8 @@ All datasets are provided in **CSV format** for:
 - direct plotting and modelling
 
 ---
-
+## License
+This project is licensed under the MIT License.
 ## Notes
 
 The dataset represents processed experimental measurements consistent with the reported results in the manuscript.
