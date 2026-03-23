@@ -1,0 +1,8 @@
+Parameter,Untreated,Treated
+Specific Surface Area (m2/g),145,185
+Surface Area SD (m2/g),6,7
+Average Pore Diameter (nm),8.5,12.2
+Mesopore Fraction (%),42,65
+Diffusion Coefficient Mean (m2/s),1.20E-09,1.45E-09
+Transport Improvement (%),0,20.8
+Residual Carbon at 900 C (%),63,63
