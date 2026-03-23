@@ -52,7 +52,10 @@ Effective diffusion coefficient measurements with replicate data across treatmen
   Consolidated key results aligned with manuscript values.
 
 ---
-
+### scripts
+- `plot_all.py`  
+  Python script to regenerate BET, pore size distribution, TGA/DTG, and transport plots from the uploaded datasets.
+  
 ## Key Findings
 
 - Specific surface area increased from **145 ± 6 m²/g to 185 ± 7 m²/g**
