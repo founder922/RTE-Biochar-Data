@@ -1,36 +1,85 @@
 # RTE-Biochar-Data
-Dataset for rapid thermal engineering of biochar-derived porous carbon
-# RTE-Biochar-Data
 
 This repository contains the supporting dataset for the manuscript:
 
 **Rapid Thermal Engineering of Biochar-Derived Porous Carbon Enabling Controlled Pore Evolution and Enhanced Transport Properties**
 
-## Repository structure
+---
+
+## Repository Structure
 
 ### BET
-- `isotherm_raw.csv` : raw adsorption-desorption data
-- `pore_distribution.csv` : BJH pore size distribution data
+- `isotherm_raw.csv`  
+  Raw nitrogen adsorption–desorption data for untreated and rapid thermally treated biochar samples.
+
+- `pore_distribution.csv`  
+  BJH pore size distribution data showing mesopore evolution.
+
+---
 
 ### SEM
-- untreated and rapid-thermal-treated microstructure images
+- `untreated_SEM_1.png`  
+- `treated_SEM_1.png`  
+- `untreated_SEM_2.png`  
+- `treated_SEM_2.png`  
+
+Scanning electron microscopy images showing microstructural evolution before and after rapid thermal engineering.
+
+---
 
 ### TGA
-- `tga_curve.csv` : thermogravimetric data
+- `tga_curve.csv`  
+
+Thermogravimetric and derivative thermal data showing devolatilisation behaviour and carbon stability.
+
+---
 
 ### Transport
-- `diffusion_results.csv` : effective diffusion coefficient results
+- `diffusion_results.csv`  
+
+Effective diffusion coefficient measurements with replicate data across treatment conditions.
+
+---
 
 ### metadata
-- `experiment_conditions.txt` : experimental settings and processing parameters
+- `experiment_conditions.txt`  
+  Full processing and characterisation parameters.
 
-## Key observations
-- Specific surface area increased from 145 to 185 m2/g
-- Mesopore contribution increased after rapid thermal treatment
-- Transport performance improved by about 15-20%
-- Major devolatilisation occurred between 300-600 C
+- `sample_description.txt`  
+  Description of untreated and treated samples.
 
-## Corresponding author
+- `summary_results.csv`  
+  Consolidated key results aligned with manuscript values.
+
+---
+
+## Key Findings
+
+- Specific surface area increased from **145 ± 6 m²/g to 185 ± 7 m²/g**
+- Mesopore contribution increased following rapid thermal treatment
+- Transport performance improved by approximately **15–20%**
+- Major devolatilisation occurred between **300–600 °C**
+- Residual carbon stabilised at approximately **63%**
+
+---
+
+## Data Format
+
+All datasets are provided in **CSV format** for:
+- reproducibility
+- independent verification
+- direct plotting and modelling
+
+---
+
+## Notes
+
+The dataset represents processed experimental measurements consistent with the reported results in the manuscript.
+
+---
+
+## Corresponding Author
+
 Dr Reji Kurien Thomas  
 TOL Biotech  
-founder@technopilot.in
+Email: founder@technopilot.in
