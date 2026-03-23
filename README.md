@@ -5,7 +5,10 @@ This repository contains the supporting dataset for the manuscript:
 **Rapid Thermal Engineering of Biochar-Derived Porous Carbon Enabling Controlled Pore Evolution and Enhanced Transport Properties**
 
 ---
-
+### figures
+- Fig3_BET.png : BET adsorption isotherm
+- Fig4_TGA.png : thermogravimetric profile
+- Fig5_Transport.png : transport performance comparison
 ## Repository Structure
 
 ### BET
