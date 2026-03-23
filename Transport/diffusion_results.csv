@@ -1,1 +1,5 @@
-
+Sample,Temperature (C),Residence_Time_min,Replicate_1 (m2/s),Replicate_2 (m2/s),Replicate_3 (m2/s),Mean (m2/s),SD (m2/s)
+Untreated,25,0,1.16E-09,1.22E-09,1.21E-09,1.20E-09,3.2E-11
+Treated_700C_2min,700,2,1.27E-09,1.31E-09,1.30E-09,1.29E-09,2.1E-11
+Treated_800C_5min,800,5,1.36E-09,1.41E-09,1.39E-09,1.39E-09,2.5E-11
+Treated_900C_10min,900,10,1.43E-09,1.47E-09,1.45E-09,1.45E-09,2.0E-11
