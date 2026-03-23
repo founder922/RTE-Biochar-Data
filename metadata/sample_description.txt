@@ -1,0 +1,9 @@
+Untreated sample:
+Biochar precursor before rapid thermal engineering
+
+Treated samples:
+Biochar after rapid thermal engineering at 700-900 C for residence times between 2 and 10 min under nitrogen atmosphere
+
+Observed behaviour:
+Untreated sample showed lower pore accessibility and lower effective diffusion coefficient
+Treated samples showed enhanced mesopore contribution, higher specific surface area, and improved transport behaviour
