@@ -1,1 +1,23 @@
+Study title: Rapid Thermal Engineering of Biochar-Derived Porous Carbon Enabling Controlled Pore Evolution and Enhanced Transport Properties
 
+Precursor:
+Biomass-derived biochar of lignocellulosic origin
+
+Rapid thermal engineering conditions:
+Atmosphere: Nitrogen
+Nitrogen flow rate: 200 mL/min
+Heating rate: 20 C/min
+Treatment temperature window: 700-900 C
+Residence time window: 2-10 min
+Cooling mode: Natural cooling under inert atmosphere
+
+Characterisation:
+SEM accelerating voltage: 5 kV
+Nitrogen adsorption temperature: 77 K
+Surface area method: BET
+Pore size distribution method: BJH
+TGA atmosphere: Nitrogen
+TGA heating rate: 10 C/min
+
+Replicates:
+All reported measurements were performed in triplicate and are reported as mean ± standard deviation
